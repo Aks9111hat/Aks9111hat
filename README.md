@@ -8,7 +8,6 @@ I am currently pursuing my B.E. at Thapar Institute of Engineering and Technolog
 	👯 I’m looking to collaborate on MERN stack.
 	💬 Ask me about Anything related to web technologies.
 	📫 How to reach me: aksjeead2020@gmail.com
-	😄 Pronouns: He/Him.
 
 
 <!---
